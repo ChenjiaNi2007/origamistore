@@ -1,0 +1,14 @@
+.header {
+    color: rgb(127, 127, 201);
+    font-size: 80px;
+}
+
+
+.flexContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(246, 251, 254);
+    margin-bottom: 50px;
+}
