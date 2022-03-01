@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/origamistore/static/css/main.11a29320.css",
+    "main.js": "/origamistore/static/js/main.f3eb7754.js",
+    "static/media/expandingninjastar.jpg": "/origamistore/static/media/expandingninjastar.04e2547e0a6e1c0b0e9a.jpg",
+    "static/media/bigdragon.jpg": "/origamistore/static/media/bigdragon.e7f836fb984cea8ed2c9.jpg",
+    "static/media/flappingcrane.jpg": "/origamistore/static/media/flappingcrane.3efb55c726d2550f2425.jpg",
+    "static/media/crane.jpg": "/origamistore/static/media/crane.a1c70b94feea7e7020d6.jpg",
+    "static/media/smalldragon.jpg": "/origamistore/static/media/smalldragon.c335a21e1aec9fa5600f.jpg",
+    "static/media/rose.jpg": "/origamistore/static/media/rose.b7103c30203e10b42100.jpg",
+    "index.html": "/origamistore/index.html",
+    "main.11a29320.css.map": "/origamistore/static/css/main.11a29320.css.map",
+    "main.f3eb7754.js.map": "/origamistore/static/js/main.f3eb7754.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11a29320.css",
+    "static/js/main.f3eb7754.js"
+  ]
+}
